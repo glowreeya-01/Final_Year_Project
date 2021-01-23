@@ -957,7 +957,7 @@ h1{
 
     /* Media querie for mobile phones */
     @media (max-width:767.9px){
-
+/*  */
         nav{
             padding: 1.5em 3em;
         }
@@ -1056,7 +1056,7 @@ h1{
         }
 
         .client__btn{
-            display: block;
+            display: flex;
             width: 8vw;
             height: 5vh;
         }
@@ -1068,7 +1068,7 @@ h1{
             line-height: 30px;
             display: flex;
             position: relative;
-            display: block;
+            /* display: block; */
             padding-top: 70px ;
             margin-bottom: 5px;
         }
